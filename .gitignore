@@ -1,0 +1,9 @@
+# Generated app bundle (built by build.sh)
+Pulse.app/
+
+# macOS
+.DS_Store
+*.swp
+
+# Swift build artifacts
+.build/
